@@ -31,6 +31,14 @@ The goal of this project was to analyze payment data to answer:
 
 ---
 
+
+##  Dashboard Preview
+
+![Dashboard](dashboard.png)
+![Dashboard](dashboard1.png)
+
+
+
 ## Dashboard Features
 
 - KPI Cards — Total Transactions, Total Value, Unique Users, Success Rate
