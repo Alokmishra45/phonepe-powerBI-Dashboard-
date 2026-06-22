@@ -35,7 +35,7 @@ The goal of this project was to analyze payment data to answer:
 ##  Dashboard Preview
 
 ![Dashboard](https://github.com/Alokmishra45/phonepe-powerBI-Dashboard-/blob/main/dashboard%20.png)
-![Dashboard](dashboard1.png)
+![Dashboard](dashboard 1.png)
 
 
 
